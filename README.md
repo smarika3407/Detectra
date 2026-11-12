@@ -801,3 +801,7 @@ This project was developed as a Final Year Project at Pokhara University. All ri
 - [FaceForensics++](https://github.com/ondyari/FaceForensics) — Benchmark dataset
 - [Celeb-DF v2](https://github.com/yuezunli/celeb-deepfakeforensics) — High quality deepfake dataset
 - PyTorch, torchvision, Django, OpenCV communities
+
+## PDF reports (optional)
+PDF export uses WeasyPrint, which needs the Pango/GTK libraries on Windows.
+Detection works without them. See https://doc.courtbouillon.org/weasyprint/stable/first_steps.html

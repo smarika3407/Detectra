@@ -35,3 +35,6 @@ __pycache__/
 # Scratch dumps
 project-dump.md
 project-dump2.md
+venv311/
+.claude/
+project-dump*.md
